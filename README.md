@@ -1,4 +1,5 @@
 A repositiory for the exercises in the pyquil docs http://docs.rigetti.com/en/stable/exercises.html as well as other programs.
+<br/>  
 List of Excercises
   1. Quantum Dice
   2. Controlled Gates 
